@@ -1,16 +1,38 @@
-## Hi there 👋
+# MementoMori-Entangle
 
-<!--
-**MementoMori-Entangle/MementoMori-Entangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there!  
+I am currently working as a **chef**, but I’ll be returning to my career as a **software engineer** from August 2025.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **C#**
+- **Java**
+- **PHP**
+- **Image Analysis** (OpenCV, etc.)
+
+---
+
+## 🌟 Favorite Project
+
+- **OpenCV**  
+  I enjoy tackling various challenges in image processing and analysis using OpenCV.
+
+---
+
+## 📝 Motto
+
+> Stick to your original intention
+
+---
+
+## 🎬 Hobbies & Interests
+
+- Animation (especially Sci-Fi)
+- All things science fiction
+
+---
+
+Thank you for visiting my profile!  
+I will continue to hone my technical and creative skills.
